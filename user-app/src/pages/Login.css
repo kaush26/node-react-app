@@ -1,0 +1,75 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20rem;
+  background-color: rgb(137, 27, 151);
+  height: 26rem;
+  margin-top: 11rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 26px 1px rgba(0, 0, 0, 0.377);
+  overflow: hidden;
+}
+
+.image-container {
+  width: 100%;
+  height: 4.5rem;
+  background-color: #5d0680;
+  padding: 0.5rem 5rem;
+  color: white;
+  box-shadow: 0 1px 0 1px rgb(205, 167, 0);
+}
+
+.image-container h1 {
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+
+#qbt-logo {
+  margin-top: 0.75rem;
+  width: 8.25rem;
+  height: 3rem;
+}
+
+.form-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 65%;
+  gap: 0.5rem;
+  margin-top: 1.75rem;
+}
+.form-container label {
+  align-self: flex-start;
+  padding-top: 1rem;
+  padding-left: 0.195rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+.form-container input {
+  width: 100%;
+  padding: 0.5rem 0.26rem;
+  outline: none;
+  border-radius: 0.5rem;
+  text-indent: 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: none;
+}
+
+.form-container .btn {
+  margin-top: 3rem;
+  padding: 0.75rem 2.25rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: rgb(137, 27, 151);
+  background: rgb(255, 208, 0);
+  border: none;
+  border-radius: 1.95rem;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: rgb(255, 222, 77);
+}

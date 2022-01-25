@@ -1,0 +1,51 @@
+table {
+  width: 40%;
+  margin-top: 3.75rem;
+  border-radius: 0.8rem;
+  overflow: hidden;
+}
+
+thead tr {
+  background-color: #5d0680;
+  height: 1.95rem;
+  font-size: large;
+  color: rgb(255, 255, 255);
+}
+th {
+  padding: 0.15rem 0;
+}
+
+tbody td {
+  padding: 0rem 3rem;
+}
+tbody td {
+  background-color: #e2e2e2;
+}
+.controls {
+  display: flex;
+  align-items: center;
+  padding: 2.6rem 0.75rem;
+  text-decoration: none;
+}
+.controls li {
+  list-style: none;
+  border: none;
+  padding: 0.26rem 0.5rem;
+  background-color: rgba(128, 0, 128, 0.795);
+  border-radius: 0.9rem;
+  font-size: 0.75rem;
+  margin: 0 0.225rem;
+}
+
+.controls a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.controls #detail-btn:hover,
+.controls #detail-btn:focus {
+  background-color: #5d0680;
+}
+.controls #delete {
+  background: transparent;
+}

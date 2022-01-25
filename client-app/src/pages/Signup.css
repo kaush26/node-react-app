@@ -1,0 +1,12 @@
+.container.signup {
+  height: 33rem;
+}
+
+.form-container.signup {
+  margin-top: 0.26rem;
+  gap: 0.37rem;
+}
+
+.form-container.signup .btn {
+  margin-top: 2rem;
+}

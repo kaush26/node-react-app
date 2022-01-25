@@ -1,0 +1,43 @@
+.error-page-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 2.6rem 0;
+}
+
+.img-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.img-cont img {
+  width: 80%;
+}
+
+.error-msg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-msg-container button {
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.error-msg-container button:hover {
+  cursor: pointer;
+  background-color: rgb(104, 4, 124);
+  color: white;
+  border: none;
+}
+
+.error-msg-container p {
+  font-size: 1.3rem;
+}
