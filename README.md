@@ -13,6 +13,12 @@ While the created `users` can `login` and `logout`
 #
 # Get Started
 use `npm install` to install the *dependencies*, then `npm start` to start the app.
+
+# Admin(default) Login Info
+- Email-Id: `admin@test.com`
+- Password: `admin`
+
+
 #
 # Screenshots
 
