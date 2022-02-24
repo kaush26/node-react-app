@@ -32,7 +32,6 @@ use `npm install` to install the *dependencies*, then `npm start` to start the a
 <img src="https://user-images.githubusercontent.com/95495655/151062328-89894ddd-6d56-48d5-b716-1e9b902062c8.png" width="260px">
 
 - ## Details Page
-<img src="https://user-images.githubusercontent.com/95495655/151062330-73decb55-9bc9-4d20-b6ea-4a6669ad2925.png" width="260px">
 
 - ## Add User Page
 <img src="https://user-images.githubusercontent.com/95495655/151062324-d1f473d2-ec97-4107-b53f-34ec49b51931.png" width="260px">
